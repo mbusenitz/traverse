@@ -1,0 +1,8 @@
+{
+	"import":[
+		"lib/traverse/traverse.json"
+	],
+	"sources":[
+		"src/main.cpp"
+	]
+}
